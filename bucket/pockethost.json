@@ -6,14 +6,14 @@
             "bin": [
                 "pockethost.exe"
             ],
-            "hash": "8eeff8cc3db5acc11d259c3b11be22de138a2a37032ce61bd255eb9b3f481de5"
+            "hash": "d54229dabf32ef42d739bdec4318dc00ac3ea4657f5675aaa36f4a211c282c18"
         },
         "arm64": {
             "url": "https://github.com/pockethost/pockethost/releases/download/v5.0.0-alpha.8/pockethost_5.0.0-alpha.8_windows_arm64.zip",
             "bin": [
                 "pockethost.exe"
             ],
-            "hash": "30de37771504780ac77c64d287d2878228c2dfc99625e5e6927d4138499fc12d"
+            "hash": "e3ab5af6742c4a6b18fe3af4e5a36aca2ad46ca6fc506bf2a24ecfc77a92399e"
         }
     },
     "homepage": "https://pockethost.io",
