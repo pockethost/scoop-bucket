@@ -1,19 +1,19 @@
 {
-    "version": "5.0.0-alpha.9",
+    "version": "5.0.0-alpha.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pockethost/pockethost/releases/download/v5.0.0-alpha.9/pockethost_5.0.0-alpha.9_windows_amd64.zip",
+            "url": "https://github.com/pockethost/pockethost/releases/download/v5.0.0-alpha.10/pockethost_5.0.0-alpha.10_windows_amd64.zip",
             "bin": [
                 "pockethost.exe"
             ],
-            "hash": "858a5dc343f6766b02c6e2d6df84646d62eb56cd32da4a5679966f5887c4f74b"
+            "hash": "fae6265c6b0a8b2bc2306351b59f17b6772880f286a5a7ad03326875e1dc2a94"
         },
         "arm64": {
-            "url": "https://github.com/pockethost/pockethost/releases/download/v5.0.0-alpha.9/pockethost_5.0.0-alpha.9_windows_arm64.zip",
+            "url": "https://github.com/pockethost/pockethost/releases/download/v5.0.0-alpha.10/pockethost_5.0.0-alpha.10_windows_arm64.zip",
             "bin": [
                 "pockethost.exe"
             ],
-            "hash": "5a6b89dbae05e558c009c7382343a7869f07bd8fe925306bb5339eee4b86d5cc"
+            "hash": "eb3dc446889af0aa125af960c6e8184c2291bda68a183ef66ada30e23c4c9e6c"
         }
     },
     "homepage": "https://pockethost.io",
